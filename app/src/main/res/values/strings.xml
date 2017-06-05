@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title_activity_calendar_task">CalendarTaskActivity</string>
+    <string name="time_event">Время</string>
+    <string name="time_event_start">Начало</string>
+    <string name="time_event_finish">Конец</string>
+    <string name="name_event">Цель</string>
+    <string name="category_event">Категория</string>
+    <string name="repeat_event">Повторять</string>
+    <string name="save_btn">OK</string>
+    <string name="cancel_text_btn">CANCEL</string>
+    <string name="text_repeat_never">никогда</string>
+    <string name="text_repeat_every_day">каждый день</string>
+    <string name="text_repeat_every_week">каждую неделю</string>
+    <string name="text_repeat_every_month">каждый месяц</string>
+    <string name="text_repeat_every_year">каждый год</string>
+</resources>
